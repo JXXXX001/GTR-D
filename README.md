@@ -10,6 +10,3 @@ code: upkr
 ## create env
 You can create env by using the follow code.
 `conda env create -f environment.yml`
-## model
-
-coming soon
